@@ -1,0 +1,92 @@
+<!DOCTYPE html >
+<html lang="en">
+<head>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    </head>
+    
+    <title>Flipcart webdesigning project</title>
+</head>
+    <head>
+        <style>
+
+  
+            img{
+                   display : block;
+                   margin-left : auto;
+                    margin-right :auto;
+                    align-items: center;
+            }
+            </style>
+    </head>
+    <body>
+    <body bgcolor="#F1F3F6">
+    <table border ="0" width ="100%" bgcolor="#2874F0">
+    <tr>
+    <td><font color ="white">flipcart</td>
+    <td><font color ="white">Home</td>
+    <td><font color ="white"> About</td>
+    <td><font color ="white">contact</td>
+    <td><input type ="text" placeholder="Search  flipcart products , brands  and more" stand="width:3"><button type ="button">Search</button></td>
+    <th><font color ="white">
+        <a href="login.html" target="_blank">login</a>
+    </font></th>
+    <th><font color ="white">More</font></th>
+    </tr>
+   </table>
+   <table>
+    <div>
+   <img src="C:\Users\DELL\Pictures\Screenshots\shop.jpg" width ="50%" height ="200px">
+    </div>
+    </table>
+    <body style="background-color: cornsilk;">
+    <table style="width:100%; height:100%;">
+    </table>
+    </body>
+    <table>
+        <tr style ="background-color:powderblue;">
+        <p> <h3> best watches for todays sell</h3></p>
+        <th><img src="C:\Users\DELL\Pictures\watch0.jpg"  width=150%  height ="150"  padding=10px></br>latest brand 30%off</th>
+        <th><img src="C:\Users\DELL\Pictures\watch2.jpg"  width=150%  height ="150"  padding=10px></br> min off 20% </th>
+        <th><img src="C:\Users\DELL\Pictures\watch11.jpg" width=100%  height ="150"  padding=10px></br> latest brand 30% off</th>
+        <th><img src="C:\Users\DELL\Pictures\watch12.jpg" width=100%  height ="150"  padding=10px></br>min off 20%</th>
+        <th><img src="C:\Users\DELL\Pictures\watch14.jpg" width=150%  height ="150"  padding=10px></br> latest brand 30% off</th>
+        <th><img src="C:\Users\DELL\Pictures\watch15.jpg" width=150%  height ="150"  padding=10px></br> min off 20%off</th>
+        </tr>
+       </table>
+       <table>
+        <tr style ="background-color: lightpink;">
+        <p> <h3> todays toy's grab</h3></p>
+        <th><img src="C:\Users\DELL\Pictures\toy1.jpg" width=60%  height ="150"  padding=10px></br>Grab now!</th>
+        <th><img src="C:\Users\DELL\Pictures\toy2.jpg"  width=60%  height ="150"  padding=10px></br> Hurry! </th>
+        <th><img src="C:\Users\DELL\Pictures\toy3.jpg" width=60%  height ="150"  padding=10px></br> todays offer</th>
+        <th><img src="C:\Users\DELL\Pictures\toy4.jpg" width=60%  height ="150"  padding=10px></br>Hurry!</th>
+        <th><img src="C:\Users\DELL\Pictures\toy5.jpg" width=60%  height ="150"  padding=10px></br> Todays offer!</th>
+        <th><img src="C:\Users\DELL\Pictures\toy6.jpg" width=60%  height ="150"  padding=10px></br> Grab now!</th>
+        </tr>
+       </table>
+       <table>
+        <tr style ="background-color: paleturquoise">
+        <p> <h3> todays cloth offer</h3></p>
+        <th><img src="C:\Users\DELL\Pictures\s1.jpg" width=150%  height ="150"  padding=10px></br>Grab now!</br>Rs .234</th>
+        <th><img src="C:\Users\DELL\Pictures\s1.jpg" width=150%  height ="150"  padding=10px></br> Hurry!</br>Rs.345 </th>
+        <th><img src="C:\Users\DELL\Pictures\s1.jpg" width=150%  height ="150"  padding=10px></br> todays offer</br>Rs.678</th>
+        <th><img src="C:\Users\DELL\Pictures\s2.jpeg"width=150%  height ="150"  padding=10px></br>Hurry!</br>Rs.765</th>
+        <th><img src="C:\Users\DELL\Pictures\s2.jpeg"width=150%  height ="150"  padding=10px></br> Todays offer!</br>Rs.345</th>
+        <th><img src="C:\Users\DELL\Pictures\s2.jpeg"width=150%  height ="150"  padding=10px></br> Grab now!</br>rs345</th>
+        </tr>
+       </table>
+       <table>
+       <body bgcolor="#F1F3F6">
+        <table border ="0" width ="100%" bgcolor="#2874F0">
+        <tr>
+        <td><center font color ="white">Copyright@MYCartoons</center></td>
+        </tr>
+        </table>
+        
+   </body>
+     
+</html>
